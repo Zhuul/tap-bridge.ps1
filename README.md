@@ -78,7 +78,3 @@ To remove an existing TAP adapter from an existing network bridge:
 ```powershell
 .\tap-bridge.ps1 remove --tap <TapName> --bridge <BridgeName>
 ```
-
-## Optional Paid Support
-
-Commercial or corporate users who wish to receive dedicated support, custom features, or other specific assistance may contact Armand Delomenie at adelomenie@yahoo.com for paid support arrangements.
